@@ -51,26 +51,26 @@ global.sdc = " "
 global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085738639969'
-global.povo = '085738639969'
-global.pgopay = '085738639969'
-global.ppulsa = '085738639969'
+global.pdana = '085608468994'
+global.povo = '085608468994'
+global.pgopay = '085608468994'
+global.ppulsa = '085608468994'
 global.ppulsa2 = '-'
 global.psaweria = '_'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '918093484205'
-global.nomorown = '6289508503105'
-global.namebot = 'Chonix'
-global.nameown = 'Vamses'
+global.nomorbot = '085608468994'
+global.nomorown = '085608468994'
+global.namebot = 'Karepmu'
+global.nameown = 'Mboh'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6289508503105'],
-  ['6285738639969'],
-  ['19152666222'],
-  ['14158555555', 'Vamses', true]
+  ['085608468994'],
+  ['085608468994'],
+  ['085608468994'],
+  ['085608468994', 'Karepmu', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -119,7 +119,7 @@ global.wm2 = '𝖈𝖍𝖔𝖓𝖎𝖝'
 global.wm3 = '𝙑𝙖𝙢𝙨𝙚𝙨𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '⛧┊ CHONIX ʙᴏᴛ'
+global.titlebot = '⛧┊ Karepmu ʙᴏᴛ'
 global.author = global.wm
 
 
@@ -172,8 +172,8 @@ global.htjava = '𔔮'   //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Chonix BOT'
-global.stickauth = `VamsesOfficial`
+global.stickpack = 'Karepmu BOT'
+global.stickauth = `Mboh gaero`
 
 global.multiplier = 38 // The higher, The harder levelup
 
